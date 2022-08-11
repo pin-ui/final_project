@@ -14,18 +14,26 @@ Because I'm just changing the data set, I only wrote some comments on the test i
 
 
 Some important module:
+
 1. fathon
+
 Supported platforms : Linux x86_64,Linux ARM64,macOS x86_64,Windows 64bit
 
 2. PyEMD
+
 $ pip install EMD-signal
 
 
 
 The version of the package
 scikit-learn            1.1.1
+
 TA-Lib                  0.4.24
+
 vmdpy                   0.2
+
 xgboost                 1.6.1
+
 yfinance                0.1.72
+
 EMD-signal              1.2.3
