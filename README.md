@@ -1,5 +1,6 @@
 # final_project
 The following is an introduction to the files used in the project.
+
 1.Simulation. Simulate a time series with random walk and trend-stationarity.
 I wrote some comments on the test in trend-stationarity.
 
