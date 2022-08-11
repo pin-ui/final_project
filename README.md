@@ -5,11 +5,11 @@ The following is an introduction to the files used in the project.
 I wrote some comments on the test in trend-stationarity.
 
 2.Prediction. Test in 5 datasets: HSI, GDAXI, Crude oil, Apple and Bitcoin.
-Because I'm just changing the datasets, I only wrote some comments on the test in Apple. And do some statistical tests on 5 datasets in a separate file.
+Because I'm just changing the datasets, I only wrote some comments on the test in Apple. And do some statistical tests on 5 datasets in a separate file.The time required to reconstruct the data 100 times in HSI is given, not including the time of retraining the model.
 
 3.Classification. Test Bitcoin one-minute price series.
 
-4.Running time. The time required to reconstruct the data 100 times in HSI is given, not including the time of retraining the model.
+4.The final report.
 
 Datasets: the daily data of HSI,GDAXI,Crude oil,Apple and Bitocoin is from yfinance, and the bitcoin one-minute data is compressed and uploaded.
 
