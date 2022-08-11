@@ -5,7 +5,7 @@ The following is an introduction to the files used in the project.
 I wrote some comments on the test in trend-stationarity.
 
 2.Prediction. Test in 5 datasets: HSI, GDAXI, Crude oil, Apple and Bitcoin.
-Because I'm just changing the data set, I only wrote some comments on the test in Apple. 
+Because I'm just changing the datasets, I only wrote some comments on the test in Apple. And do some statistical tests on 5 datasets in a separate file.
 
 3.Classification. Test Bitcoin one-minute price series.
 
@@ -13,29 +13,29 @@ Because I'm just changing the data set, I only wrote some comments on the test i
 
 Datasets: the daily data of HSI,GDAXI,Crude oil,Apple and Bitocoin is from yfinance, and the bitcoin one-minute data is compressed and uploaded.
 
-
+***
 
 Some important module:
 
 1. fathon
 
-Supported platforms : Linux x86_64,Linux ARM64,macOS x86_64,Windows 64bit
+* Supported platforms : Linux x86_64,Linux ARM64,macOS x86_64,Windows 64bit
 
 2. PyEMD
 
-$ pip install EMD-signal
+* $ pip install EMD-signal
 
-
+***
 
 The version of the package
-scikit-learn            1.1.1
+* scikit-learn            1.1.1
 
-TA-Lib                  0.4.24
+* TA-Lib                  0.4.24
 
-vmdpy                   0.2
+* vmdpy                   0.2
 
-xgboost                 1.6.1
+* xgboost                 1.6.1
 
-yfinance                0.1.72
+* yfinance                0.1.72
 
-EMD-signal              1.2.3
+* EMD-signal              1.2.3
