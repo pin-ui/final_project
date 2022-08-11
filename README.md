@@ -11,6 +11,8 @@ Because I'm just changing the data set, I only wrote some comments on the test i
 
 4.Running time. The time required to reconstruct the data 100 times in HSI is given, not including the time of retraining the model.
 
+Datasets: the daily data of HSI,GDAXI,Crude oil,Apple and Bitocoin is from yfinance, and the bitcoin one-minute data is compressed and uploaded.
+
 
 
 Some important module:
